@@ -1,0 +1,5 @@
+services:
+    convert_currency.convert:
+        class: ConvertCurrencyBundle\Services\CurrencyConverter
+        public: true
+
